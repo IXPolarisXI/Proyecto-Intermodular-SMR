@@ -10,4 +10,8 @@ Las fotos de este apartado las saqué de trabajos ya realizados, ya que no tengo
 No he utilizado ninguna herramienta adicional para poder realizar el trabajo.
 El proyecto se puede resumir en una guía desde cero sobre un ordenador y sus componentes.
 
+Además, no pude añadir el trabajo en si debido a superar el tamaño que permite Github, asi que lo subo en Mediafire.
+Enlace a Mediafire para el trabajo:
+https://www.mediafire.com/file/z43u7ahryylm4t7/Proyecto+intermodular.pdf/file
+
 (Este mismo texto esta en el fichero documentación.pdf).
